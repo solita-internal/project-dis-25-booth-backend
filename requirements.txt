@@ -1,0 +1,5 @@
+ipywidgets
+langchain-redis
+langchain-openai
+redis
+sqlmodel
