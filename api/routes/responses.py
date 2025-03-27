@@ -1,7 +1,7 @@
 from fastapi import APIRouter, Depends, HTTPException
 from sqlalchemy.orm import Session
 from db.session import get_db
-from crude import responses as crud
+from crud import responses as crud
 from schemas.responses import ResponseCreate, ResponseRead
 
 router = APIRouter(prefix="/response", tags=["Responses"])
