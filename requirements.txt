@@ -99,7 +99,7 @@ typeguard==4.4.2
 types-SQLAlchemy==1.4.53.38
 typing_extensions==4.12.2
 tzdata==2025.1
-urllib3==2.2.1
+urllib3==2.2.2
 uvicorn==0.34.0
 validators==0.34.0
 XlsxWriter==3.2.2
