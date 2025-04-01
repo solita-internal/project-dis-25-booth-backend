@@ -9,7 +9,7 @@ azure-core==1.32.0
 azure-search-documents==11.5.2
 beautifulsoup4==4.12.3
 bs4==0.0.2
-certifi==2024.2.2
+certifi==2024.7.4
 certificates==2.0.0
 cffi==1.17.1
 charset-normalizer==3.3.2
